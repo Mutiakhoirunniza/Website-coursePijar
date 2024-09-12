@@ -1,0 +1,22 @@
+
+html * {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.bg-wheat{
+    background-color: wheat;
+}
+
+.bg-pinky{
+    background-color: lightpink;
+}
+.bg-purple{
+    background-color: rebeccapurple;
+}
+
+.box{
+    border: solid;
+    border-right-width: 15px;
+    border-bottom-width: 15PX;
+    border-radius: 5px;
+}
